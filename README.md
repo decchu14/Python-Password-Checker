@@ -1,2 +1,6 @@
 # Python-Password-Checker
-Script to check how many times a password has been hacked using Password API
+
+
+TITLE :- PASSWORD CHECKER
+
+DESCRIPTION :- Script to check how many times a password has been hacked using Password API
