@@ -7,7 +7,7 @@ DESCRIPTION :- Script to check how many times a password has been hacked using P
 
 ABOUT THE PROJECT :-
 
-    In this project we are going to build a tool that can be used in real world to securely check if you passwords have ever been hacked. we are going to use 2 types of     methods:-
+   In this project we are going to build a tool that can be used in real world to securely check if you passwords have ever been hacked. we are going to use 2 types of    methods:-
     
   * Using Console
   * Using Text File
