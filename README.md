@@ -26,5 +26,5 @@ ABOUT THE PROJECT :-
   
      -> We then open our text file and read our passwords line by line.
      
-     -> Here also we can save any nummber of passwords.
+     -> Here also we can save any number of passwords.
    
