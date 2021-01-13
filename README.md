@@ -40,6 +40,6 @@ DATA BREACH :-
 THE OFFICIAL WEBSITE :-
    * As explained above, there are databases or we can think them as massive excel files of all emails and passwords that have ever been leaked throughout the history.
    * Using these databases there is a website called https://haveibeenpwned.com/ created by Troy Hunt where we can check whether our emails or passwords have ever been        pawned or not.
-   * But remember even though this website is trustworthy which also uses https a secured way of transforming data, yet we should not trust because the best security is      to not trust anything.
+   * But remember even though this website is trustworthy which also uses https a secured way of transferring data, yet we should not trust because the best security is      to not trust anything.
    
    
