@@ -14,7 +14,7 @@ ABOUT THE PROJECT :-
   
   1) Using Console
   
-     -> In first type we are going to enter the inputs through consoles.
+     -> In first type we are going to enter the inputs through console.
   
      -> Here inputs means passwords.
      
@@ -31,9 +31,14 @@ ABOUT THE PROJECT :-
 
 DATA BREACH :-
    * Our passwords gets leaked all the time. 
-   * Ever heard of Data breaches? A data breach is the intentional or unintentional release of secure or private/confidentional information to an untrusted eenvirnment.
+   * Ever heard of Data breaches? A data breach is the intentional or unintentional release of secure or private/confidentional information to an untrusted environment.
      example:- facebook, linkdIn, yahoo etc, has been hacked with data breaches.
    * All these companies sometimes leaks their databases therefore, our usernames and passwords gets leaked to the public.
    * Hackers compile these lists of usernames and passwords and try to login to different services.
+   
+
+THE OFFICIAL WEBSITE :-
+   * As explained above, there are databases or we can think them as massive excel files of all emails and passwords that have ever been leaked throughout the history.
+   * Using these database there is a website called https://haveibeenpwned.com/ created by Troy Hunt where we can check whether our emails or passwords have been ever        pwnd or not.
    
    
