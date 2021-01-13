@@ -29,7 +29,7 @@ ABOUT THE PROJECT :-
      -> Here also we can save any number of passwords.
      
 
-THE IDEA BEHIND THE THIS WHOLE PROCESS :-
+DATA BREACH :-
    * Our passwords gets leaked all the time. 
    * Ever heard of Data breaches? A data breach is the intentional or unintentional release of secure or private/confidentional information to an untrusted eenvirnment.
      example:- facebook, linkdIn, yahoo etc, has been hacked with data breaches.
