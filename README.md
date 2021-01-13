@@ -27,4 +27,13 @@ ABOUT THE PROJECT :-
      -> We then open our text file and read our passwords line by line.
      
      -> Here also we can save any number of passwords.
+     
+
+THE IDEA BEHIND THE THIS WHOLE PROCESS :-
+   * Our passwords gets leaked all the time. 
+   * Ever heard of Data breaches? A data breach is the intentional or unintentional release of secure or private/confidentional information to an untrusted eenvirnment.
+     example:- facebook, linkdIn, yahoo etc, has been hacked with data breaches.
+   * All these companies sometimes leaks their databases therefore, our usernames and passwords gets leaked to the public.
+   * Hackers compile these lists of usernames and passwords and try to login to different services.
+   
    
