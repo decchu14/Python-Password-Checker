@@ -41,5 +41,8 @@ THE OFFICIAL WEBSITE :-
    * As explained above, there are databases or we can think them as massive excel files of all emails and passwords that have ever been leaked throughout the history.
    * Using these databases there is a website called https://haveibeenpwned.com/ created by Troy Hunt where we can check whether our emails or passwords have ever been        pawned or not.
    * But remember even though this website is trustworthy which also uses https a secured way of transferring data, yet we should not trust because the best security is      to not trust anything.
+   * Because what happens here is, whenever we enter our passwords or emails it will be transferred to the servers somewhere around the world throught the internet 
+   * And that is why we build our own tool in our own PC to securely check our passwords.
+   * And this above mentioned website gives us a API called Password API using which we will be builiding our tool.
    
    
