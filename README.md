@@ -48,7 +48,8 @@ THE OFFICIAL WEBSITE :-
 HASH Functions :-
    * One needs to always Hash or Encrypt their passwords before storing it.
    * A Hash function is simply a function that generates a value of fixed length for each given input.
-   * There are many types of Hash functions such as SHA1, MD5, etc. for more info about types of hash functions and their differences please click here
+   * There are many types of Hash functions such as SHA1, MD5, etc. for more info about types of hash functions and their differences please click 
+     [here](https://google.com)
    * https://passwordsgenerator.net/sha1-hash-generator/ 
     
    
