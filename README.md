@@ -45,4 +45,8 @@ THE OFFICIAL WEBSITE :-
    * And that is why we build our own tool in our own PC to securely check our passwords.
    * And this above mentioned website gives us a API called Password API using which we will be builiding our tool.
    
+HASH Functions :-
+   * One needs to always Hash or Encrypt their passwords before storing it.
+   * A Hash function is simply a function that generates a value of fixed length for each given input.
+   
    
