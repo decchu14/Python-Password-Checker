@@ -59,9 +59,7 @@ THE REQUIRED TOOLS :-
    * hashlib module
    
    The sys module is built in module which comes along with python interpreter.
-   ''' 
-   pip install requests
-   '''
+   
    
    
    
