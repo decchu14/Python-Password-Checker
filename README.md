@@ -51,7 +51,7 @@ HASH Functions :-
    * There are many types of Hash functions such as SHA1, MD5, SHA256 etc. 
    * https://passwordsgenerator.net/sha1-hash-generator/ --->Using this website we can hash our passwords.
    * As mentioned before, the Password API uses SHA1 type forr hashing the passwords.
-   * For example, let password123 be a password, the hashed form is going to be 'CBFDAC6008F9CAB4083784CBD1874F76618D2A97'. And no matter how many times i give                password123 the hashed form is going to be the same, this technique is called Idempotent.
+   * For example, let password123 be a password, the hashed form is going to be 'CBFDAC6008F9CAB4083784CBD1874F76618D2A97'. And no matter how many times I give                password123 the hashed form is going to be the same, This technique is called Idempotent.
     
    
    
