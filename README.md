@@ -48,9 +48,10 @@ THE OFFICIAL WEBSITE :-
 HASH Functions :-
    * One needs to always Hash or Encrypt their passwords before storing it.
    * A Hash function is simply a function that generates a value of fixed length for each given input.
-   * There are many types of Hash functions such as SHA1, MD5, etc. for more info about types of hash functions and their differences please click 
-     [here](https://google.com)
-   * https://passwordsgenerator.net/sha1-hash-generator/ 
+   * There are many types of Hash functions such as SHA1, MD5, SHA256 etc. 
+   * https://passwordsgenerator.net/sha1-hash-generator/---Using this website we can hash our passwords.
+   * As mentioned before, the Password API uses SHA1 type fror hashing the passwords.
+   * For example, let password123 be a password, the hashed form is going to be 'CBFDAC6008F9CAB4083784CBD1874F76618D2A97'. And no matter how many times i give                password123 the hashed form is going to be the same, this technique is called Idempotent.
     
    
    
