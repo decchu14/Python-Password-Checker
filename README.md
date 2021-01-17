@@ -65,10 +65,7 @@ THE REQUIRED TOOLS :-
    * hashlib module : The hashlib module is not a built in module, this module needs to be downloaded.
    
          pip install hashlib
-   
-         
-         
-         pip install hashlib
+
          
     
    
