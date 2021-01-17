@@ -58,7 +58,10 @@ THE REQUIRED TOOLS :-
    * requests module
    * hashlib module
    
-   The sys module is built in module which comes along with python interpreter.
+   * The sys module is built in module which comes along with python interpreter.
+   * The requests module needs to be downloaded
+   
+         pip install requests
    
    
    
