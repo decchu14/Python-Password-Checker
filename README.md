@@ -50,7 +50,7 @@ HASH Functions :-
    * A Hash function is simply a function that generates a value of fixed length for each given input.
    * There are many types of Hash functions such as SHA1, MD5, SHA256 etc. 
    * https://passwordsgenerator.net/sha1-hash-generator/ --->Using this website we can hash our passwords.
-   * As mentioned before, the Password API uses SHA1 type forr hashing the passwords.
+   * As mentioned before, the Password API uses SHA1 type for hashing the passwords.
    * For example, let password123 be a password, the hashed form is going to be 'CBFDAC6008F9CAB4083784CBD1874F76618D2A97'. And no matter how many times I give                password123 the hashed form is going to be the same, This technique is called Idempotent.
     
 THE REQUIRED TOOLS :-
@@ -65,7 +65,27 @@ THE REQUIRED TOOLS :-
    * hashlib module : The hashlib module is not a built in module, this module needs to be downloaded.
    
          pip install hashlib
+         
+         
+THE PASSWORD API :-
+   
+      import requests
+      url = 'https://api.pwnedpasswords.com/range/' + [hashedpassword]
+      res = requests.get(url)
 
+   * The first step is to import a requests module.
+   * The requests module is going to allow us to make a request to haveibeenpwnd website through browser.
+   * Its kinda like having browser without a actual browser.
+   
+   * The second step is to assign a Password API url to a variable named 'url'.
+   * Here hashedpassword is the hashed form of your password.
+   * As the example mentioned above, the hashed password for 'password123' is 'CBFDAC6008F9CAB4083784CBD1874F76618D2A97'.
+   * But in the url we just pass the 5prefix of your hashed password.
+   * So the code will basically look like,
+   
+         import requests
+         url = 'https://api.pwnedpasswords.com/range/' + 'CBFDA'
+         res = requests.get(url)
          
     
    
