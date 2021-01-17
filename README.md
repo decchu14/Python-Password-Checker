@@ -54,14 +54,19 @@ HASH Functions :-
    * For example, let password123 be a password, the hashed form is going to be 'CBFDAC6008F9CAB4083784CBD1874F76618D2A97'. And no matter how many times I give                password123 the hashed form is going to be the same, This technique is called Idempotent.
     
 THE REQUIRED TOOLS :-
-   * sys module
-   * requests module
-   * hashlib module
+
+   * sys module : The sys module is built in module which comes along with python interpreter.
    
-   * The sys module is built in module which comes along with python interpreter.
-   * The requests module and hashlib module needs to be downloaded.
+   * requests module : The requests module is not a built in module, This module needs to be downloaded.
    
          pip install requests
+         
+         
+   * hashlib module : The hashlib module is not a built in module, this module needs to be downloaded.
+   
+         pip install hashlib
+   
+         
          
          pip install hashlib
          
