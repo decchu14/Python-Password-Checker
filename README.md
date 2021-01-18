@@ -58,14 +58,14 @@ THE REQUIRED TOOLS :-
    * sys module : The sys module is built in module which comes along with python interpreter.
    
    * requests module : The requests module is not a built in module, This module needs to be downloaded.
-                       Using this module we will be able to make requests to the browser through runtime.
+                       This module is used to make requests to the browser during runtime.
                
    
          pip install requests
          
          
    * hashlib module : The hashlib module is not a built in module, this module needs to be downloaded.
-                      This module hashes our password during password.
+                      This module is used to hash our password during runtime.
    
          pip install hashlib
          
