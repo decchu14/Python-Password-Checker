@@ -92,7 +92,15 @@ THE PASSWORD API :-
   
   
 K-ANONYMITY ;-
-   * This is a modern technique that big like FAANG use to protect the privacy of their customer.
+   * This is a modern technique that big like FAANG use to protect the privacy of their customers.
+   * K-Anonymity allows somebody to receive information about us but yet still not know who we are.
+   * The way this works is that we only give the first 5 characters of our hashed passwords.
+   * The Password API has the list of all the passwords that have been leaked, However all these passwords are hashed with SHA1 Algorithm.
+   * So its going to look in its databases of all these passwords and pick all the hashed passwords that has these first 5 characters.
+   * Hence in response we will get all the hashed passwords which has these first 5 characters and then we can compare our entire hashed password with the list of            response hashed passwords in our own PC.
+   * This way the Passowrd API is never going to know our full hash and never ever be able to guess our password.
+   
+   
    
          
     
