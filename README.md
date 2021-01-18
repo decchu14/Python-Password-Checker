@@ -87,6 +87,14 @@ THE PASSWORD API :-
          url = 'https://api.pwnedpasswords.com/range/' + 'CBFDA'
          res = requests.get(url)
          
+         
+   * Third step is to request API through request.get(url) method and assigning it to a variable called 'res'.
+  
+  
+K-ANONYMITY ;-
+   * This is a modern technique that big like FAANG use to protect the privacy of their customer.
+   
+         
     
    
    
