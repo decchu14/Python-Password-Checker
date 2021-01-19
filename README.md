@@ -1,8 +1,5 @@
 # Python-Password-Checker
 
-<<<<<<< HEAD
-Script to check how many times a password has been hacked using Password API
-=======
 
 TITLE :- PASSWORD CHECKER
 
@@ -115,4 +112,3 @@ K-ANONYMITY ;-
    
    
    
->>>>>>> 519c395a669f08d024c94f9433ee86851cef48b7
