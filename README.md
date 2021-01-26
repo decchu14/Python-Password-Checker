@@ -9,7 +9,7 @@ ABOUT THE PROJECT :-
 
    In this project we are going to build a tool that can be used in real world to securely check if your passwords have ever been hacked. we are going to use 2 types of    methods:-
     
-  * Using Console
+  * Using Console (Console_PswdChecker.py)
   * Using Text File
   
   1) Using Console
