@@ -91,11 +91,14 @@ def main(args):  # 2
 
 
 '''
+    step 0 - this entire program will only execute if this file gets run and it wont if its imported into some other files
     step 1 - is to accept the passwords as arguements through console
            - for example console_pswdchecker.py password1 password2 password3
            - this will be passed to main(sys.argv[1:])
            - here index 0 is the name of the file console_pswdchecker.py hence [1:] because the passwords index will 
              begin from 1
-           - then the control will jump to main function           
+           - then the control will jump to main function 
+           - sys.exit() --  is just to make sure evrything gets          
 '''
-main(sys.argv[1:])  # 1
+if __name__ == '__main__':  # 0
+    sys.exit(main(sys.argv[1:]))  # 1
